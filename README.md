@@ -1,2 +1,2 @@
-# mcs
+# MCS
 Dockerized Minecraft Server
