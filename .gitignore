@@ -1,1 +1,8 @@
+# IDE
 .idea
+
+# Docker
+docker-compose.*
+
+# Server files
+server
